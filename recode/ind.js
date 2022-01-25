@@ -1,15 +1,15 @@
-exports.paymentstore = (owner) => {
-return `*PAYMENT STORE*
-Dana : 0881-7864-684
-Ovo : 0823-1646-4080
-Pulsa : 0823-1646-4080
+exports.paymentstore = (6281383035692) => {
+return `*RENZZ STORE*
+Dana : 0831-9712-1917
+Ovo : 0831-9712-1917
+Pulsa : 0831-9712-1917
 
 Note :
 Jika Sudah Transfer Wajib Kirim
 Bukti Transfer Ke Nomor Di Bawah
 Agar Bisa Cepat Di Proses Langsung
 
-Wa.me/${owner}
+Wa.me/${6281383035692}
 `
 }
 
@@ -31,7 +31,7 @@ return `*DROP DATA DIAMOND FF*
 *1440 💎 Rp 183.200*
 *2000 💎 Rp 250.400*
 
-*Member Mingguan Rp 28.800*
+*Member Mingguan Rp 29.000*
 *Member Bulanan Rp 138.000*
 
 Note : 
@@ -238,9 +238,9 @@ return`*HAI KAK MAU BENERAN DONASI ATAU TIDAK KAK*
 *SEMOGA TIDAK DILIHAT DOANG*
 
 *PAYMENT BOT*
-DANA: (0857-8900-4732)
-OVO: (0822-7991-5237)
-PULSA: (0822-7991-5237)
+DANA: (0831-9712-1917)
+OVO: (0831-9712-1917)
+PULSA: (0831-9712-1917)
 
 *TERIMA KASIH KAK*
 *LOVE YOU😋*`
