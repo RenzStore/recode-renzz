@@ -44,17 +44,17 @@ Edit Nomor Owner DLL `'./settings/setting.json'`
 
 ```ts
 {
-"BotName":"NanaBotz",
-"OwnerNumber":"62857890047322",
-"OwnerName":"LexxyOFC",
+"BotName":"RenzzBotz",
+"OwnerNumber":"6281383035692",
+"OwnerName":"RENZZSTORE",
 
-"GithubOwner":"https://github.com/Lexxy24",
-"YoutubeOwner":"https://youtube.com/c/LEX4YOUU",
-"GroupOwner":"https://chat.whatsapp.com/DiexeOhNqQv5Qsm6Y2vD4d"
+"GithubOwner":"https://github.com/RenzStore/v13",
+"YoutubeOwner":"https://youtube.com/channel/UCOaRY0XWVIRnslwhNCx2TXQ",
+"GroupOwner":"https://chat.whatsapp.com/DNzM4hRZk4sJdOnj8vZm9X"
 }
 ```
 
 # My Sosial
-- [Group ](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
+- [Group ](https://chat.whatsapp.com/DNzM4hRZk4sJdOnj8vZm9X)
+- [YouTube ](https://youtube.com/channel/UCOaRY0XWVIRnslwhNCx2TXQ)
+- [Whatsapp ](https://wa.me/6281383035692)
